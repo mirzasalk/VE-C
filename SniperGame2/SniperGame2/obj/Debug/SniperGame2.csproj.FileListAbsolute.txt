@@ -1,0 +1,16 @@
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\SniperGame2\SniperGame2\bin\Debug\SniperGame2.exe.config
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\SniperGame2\SniperGame2\bin\Debug\SniperGame2.exe
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\SniperGame2\SniperGame2\bin\Debug\SniperGame2.pdb
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\SniperGame2\SniperGame2\obj\Debug\SniperGame2.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\SniperGame2\SniperGame2\obj\Debug\SniperGame2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\SniperGame2\SniperGame2\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\SniperGame2\SniperGame2\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\SniperGame2\SniperGame2\obj\Debug\SniperGame2_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\SniperGame2\SniperGame2\obj\Debug\SniperGame2_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\SniperGame2\SniperGame2\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\SniperGame2\SniperGame2\obj\Debug\SniperGame2.g.resources
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\SniperGame2\SniperGame2\obj\Debug\SniperGame2.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\SniperGame2\SniperGame2\obj\Debug\SniperGame2.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\SniperGame2\SniperGame2\obj\Debug\SniperGame2.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\SniperGame2\SniperGame2\obj\Debug\SniperGame2.exe
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\SniperGame2\SniperGame2\obj\Debug\SniperGame2.pdb
