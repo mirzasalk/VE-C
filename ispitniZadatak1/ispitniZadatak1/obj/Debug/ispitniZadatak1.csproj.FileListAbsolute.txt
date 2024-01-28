@@ -1,0 +1,15 @@
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\ispitniZadatak1\ispitniZadatak1\bin\Debug\ispitniZadatak1.exe.config
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\ispitniZadatak1\ispitniZadatak1\bin\Debug\ispitniZadatak1.exe
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\ispitniZadatak1\ispitniZadatak1\bin\Debug\ispitniZadatak1.pdb
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\ispitniZadatak1\ispitniZadatak1\obj\Debug\ispitniZadatak1.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\ispitniZadatak1\ispitniZadatak1\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\ispitniZadatak1\ispitniZadatak1\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\ispitniZadatak1\ispitniZadatak1\obj\Debug\ispitniZadatak1_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\ispitniZadatak1\ispitniZadatak1\obj\Debug\ispitniZadatak1_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\ispitniZadatak1\ispitniZadatak1\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\ispitniZadatak1\ispitniZadatak1\obj\Debug\ispitniZadatak1.g.resources
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\ispitniZadatak1\ispitniZadatak1\obj\Debug\ispitniZadatak1.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\ispitniZadatak1\ispitniZadatak1\obj\Debug\ispitniZadatak1.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\ispitniZadatak1\ispitniZadatak1\obj\Debug\ispitniZadatak1.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\ispitniZadatak1\ispitniZadatak1\obj\Debug\ispitniZadatak1.exe
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\ispitniZadatak1\ispitniZadatak1\obj\Debug\ispitniZadatak1.pdb
