@@ -1,0 +1,15 @@
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\pumpa\pumpa\bin\Debug\pumpa.exe.config
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\pumpa\pumpa\bin\Debug\pumpa.exe
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\pumpa\pumpa\bin\Debug\pumpa.pdb
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\pumpa\pumpa\obj\Debug\pumpa.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\pumpa\pumpa\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\pumpa\pumpa\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\pumpa\pumpa\obj\Debug\pumpa_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\pumpa\pumpa\obj\Debug\pumpa_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\pumpa\pumpa\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\pumpa\pumpa\obj\Debug\pumpa.g.resources
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\pumpa\pumpa\obj\Debug\pumpa.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\pumpa\pumpa\obj\Debug\pumpa.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\pumpa\pumpa\obj\Debug\pumpa.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\pumpa\pumpa\obj\Debug\pumpa.exe
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\pumpa\pumpa\obj\Debug\pumpa.pdb

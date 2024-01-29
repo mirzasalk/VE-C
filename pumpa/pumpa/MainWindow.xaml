@@ -1,0 +1,26 @@
+﻿<Window x:Class="pumpa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pumpa"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas Name="MyCanvas">
+        <Rectangle Width="600" Height="80" Stroke="Black" StrokeThickness="2" Canvas.Left="144" Canvas.Top="13" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Rectangle Width="600" Height="80" Stroke="Black" StrokeThickness="2" Canvas.Left="144" Canvas.Top="275" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Rectangle Width="600" Height="80" Stroke="Black" StrokeThickness="2" Canvas.Left="144" Canvas.Top="187" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Rectangle Width="600" Height="80" Stroke="Black" StrokeThickness="2" Canvas.Left="144" Canvas.Top="99" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Rectangle Name="pumpa1" Width="0" Height="80" Fill="Red" Canvas.Left="144" Canvas.Top="13" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Rectangle Name="pumpa4" Width="0" Height="80" Fill="Red" Canvas.Left="144" Canvas.Top="275" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Rectangle Name="pumpa3" Width="0" Height="80" Fill="Red" Canvas.Left="144" Canvas.Top="187" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Rectangle Name="pumpa2" Width="0" Height="80" Fill="Red" Canvas.Left="144" Canvas.Top="99" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Rectangle Width="96" Height="366" Stroke="Black" StrokeThickness="2" HorizontalAlignment="Left" Canvas.Left="16" VerticalAlignment="Top" Canvas.Top="13"/>
+        <ScrollViewer VerticalScrollBarVisibility="Auto"   HorizontalAlignment="Center" Canvas.Left="16" VerticalAlignment="Top" Canvas.Top="13">
+            <StackPanel x:Name="myStackPanel" Width="96" Height="366" >
+                
+            </StackPanel>
+        </ScrollViewer>
+
+    </Canvas>
+</Window>
