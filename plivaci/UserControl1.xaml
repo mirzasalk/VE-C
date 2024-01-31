@@ -1,0 +1,66 @@
+﻿<UserControl x:Class="plivaci.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:plivaci"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Canvas Background="White">
+        <Rectangle Width="790" Height="70" HorizontalAlignment="Left" Canvas.Top="27" VerticalAlignment="Center" Stroke="Black" Canvas.Left="4" />
+        <Rectangle Width="790" Height="70" HorizontalAlignment="Left" Canvas.Top="195" VerticalAlignment="Center" Stroke="Black" Canvas.Left="4"/>
+        <Rectangle Width="790" Height="70" HorizontalAlignment="Left" Canvas.Top="110" VerticalAlignment="Center" Stroke="Black" Canvas.Left="4"/>
+        <TextBox Name ="Plivac1"  Text="Plivac1" FontSize="30" Canvas.Left="81" Canvas.Top="38" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBox Name ="Plivac2"  Text="Plivac2" FontSize="30" Canvas.Left="82" Canvas.Top="124" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <TextBox Name ="Plivac3"  Text="Plivac3" FontSize="30" Canvas.Left="81" Canvas.Top="209" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+        <GroupBox  Margin="10" Canvas.Left="450" Canvas.Top="50" BorderThickness="0">
+            <StackPanel Width="220" Orientation="Horizontal">
+                <TextBox BorderThickness="0" Text="Prsno"/>
+                <RadioButton Width="30" Name="prsno1"/>
+
+                <TextBox BorderThickness="0" Text="ledjno"/>
+                <RadioButton Width="30" Name="ledjno1"/>
+
+                <TextBox BorderThickness="0" Text="slobodniStil"/>
+                <RadioButton Width="30" Name="slobodniStil1"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox  Margin="10" Canvas.Left="450" Canvas.Top="120" BorderThickness="0">
+            <StackPanel Width="220" Orientation="Horizontal">
+                <TextBox BorderThickness="0" Text="Prsno"/>
+                <RadioButton Width="30" Name="prsno2"/>
+
+                <TextBox BorderThickness="0" Text="ledjno"/>
+                <RadioButton Width="30" Name="ledjno2"/>
+
+                <TextBox BorderThickness="0" Text="slobodniStil"/>
+                <RadioButton Width="30" Name="slobodniStil2"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox  Margin="10" Canvas.Left="450" Canvas.Top="210" BorderThickness="0">
+            <StackPanel Width="220" Orientation="Horizontal">
+                <TextBox BorderThickness="0" Text="Prsno"/>
+                <RadioButton Width="30" Name="prsno3"/>
+
+                <TextBox BorderThickness="0" Text="ledjno"/>
+                <RadioButton Width="30" Name="ledjno3"/>
+
+                <TextBox BorderThickness="0" Text="slobodniStil3"/>
+                <RadioButton Width="30" Name="slobodniStil3"/>
+            </StackPanel>
+        </GroupBox>
+
+        <Button Width="200" Height="40" Canvas.Left="300" Canvas.Top="353" Content="Ucitaj" FontSize="25" Click="ucitavanje"/>
+
+        <TextBlock Text="stil:" FontSize="20" Canvas.Left="398" Canvas.Top="124" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <TextBlock Text="ime:" FontSize="20" Canvas.Left="26" Canvas.Top="130" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <TextBlock Text="ime:" FontSize="20" Canvas.Left="28" Canvas.Top="218" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+        <TextBlock Text="Ime:" FontSize="20" Canvas.Left="24" Canvas.Top="40"/>
+        <TextBlock Text="stil:" FontSize="20" Canvas.Left="400" Canvas.Top="217" RenderTransformOrigin="8.647,7.129" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <TextBlock Text="stil:" FontSize="20" Canvas.Left="400" Canvas.Top="53" RenderTransformOrigin="9.813,0.485"/>
+
+
+    </Canvas>
+</UserControl>
