@@ -1,0 +1,29 @@
+﻿<Window x:Class="Tenkovi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tenkovi"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1000">
+    <Canvas Name="myCanvas" KeyDown="pokretanjeTenkova" KeyUp="stopiranjeTenkova" Focusable="True" MouseLeftButtonDown="dodavanjePrepreka">
+        <Rectangle Name="pozadina" Width="806" Height="439" Fill="White" HorizontalAlignment="Left" VerticalAlignment="Top" />
+
+        <Rectangle Name="Tenk1" Width="60" Height="60" Fill="red" Canvas.Left="728" Canvas.Top="208" HorizontalAlignment="Center" VerticalAlignment="Top" />
+        <Rectangle Name="Tenk2" Width="60" Height="60" Fill="Green" Canvas.Left="13" Canvas.Top="187" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+
+        <Rectangle Name="panelZaUnos" Tag="prepreka" Width="200" Height="434" Fill="Sienna" Canvas.Left="800" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <TextBlock Name="Nemoj" Text="Unesite velicinu prepreke" Canvas.Left="833" Canvas.Top="10" Background="Wheat" Padding="3"/>
+
+        <TextBlock Text="visina(max:120):" Canvas.Left="806" Canvas.Top="52" HorizontalAlignment="Left" VerticalAlignment="Center" />
+        <TextBox Name="visina" Background="Wheat" Width="60" Canvas.Left="900" Canvas.Top="52" HorizontalAlignment="Left" VerticalAlignment="Center" Text="50"/>
+        <TextBlock Text="Sirina(max:120):" Canvas.Left="806" Canvas.Top="86" HorizontalAlignment="Center" VerticalAlignment="Top" />
+
+        <TextBlock Name="validText" Canvas.Left="858" Canvas.Top="392" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBlock Name="pomoc" Canvas.Left="858" Canvas.Top="354" HorizontalAlignment="Center" VerticalAlignment="Top" Text="pomoc"/>
+        <TextBox Name="sirina" Background="Wheat" Width="60" Canvas.Left="900" Canvas.Top="86" HorizontalAlignment="Center" VerticalAlignment="Top" Text="50"/>
+        <Rectangle Name="PrimerPrepreke" Fill="Gray" Canvas.Left="842" Canvas.Top="147" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+    </Canvas>
+
+</Window>

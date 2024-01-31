@@ -1,0 +1,15 @@
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Tenkovi\Tenkovi\bin\Debug\Tenkovi.exe.config
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Tenkovi\Tenkovi\bin\Debug\Tenkovi.exe
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Tenkovi\Tenkovi\bin\Debug\Tenkovi.pdb
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Tenkovi\Tenkovi\obj\Debug\Tenkovi.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Tenkovi\Tenkovi\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Tenkovi\Tenkovi\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Tenkovi\Tenkovi\obj\Debug\Tenkovi_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Tenkovi\Tenkovi\obj\Debug\Tenkovi_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Tenkovi\Tenkovi\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Tenkovi\Tenkovi\obj\Debug\Tenkovi.g.resources
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Tenkovi\Tenkovi\obj\Debug\Tenkovi.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Tenkovi\Tenkovi\obj\Debug\Tenkovi.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Tenkovi\Tenkovi\obj\Debug\Tenkovi.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Tenkovi\Tenkovi\obj\Debug\Tenkovi.exe
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Tenkovi\Tenkovi\obj\Debug\Tenkovi.pdb
