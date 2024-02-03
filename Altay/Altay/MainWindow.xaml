@@ -1,0 +1,15 @@
+﻿<Window x:Class="Altay.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Altay"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas Name="myCanvas" Focusable="True" KeyDown="kretanjeTenkova" KeyUp="zaustavljanjeTenkova">
+        <Rectangle Width="800" Height="450" Fill="Azure"/>
+        <Rectangle Name="Altay"  Width="60" Height="60" Fill="Red" Canvas.Left="636" Canvas.Top="187" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Rectangle Name="M1Abrams"  Width="60" Height="60" Fill="Blue" Canvas.Left="92" Canvas.Top="187" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <TextBlock x:Name="pomoc" Text="pomoc" FontFamily="20" Width="100" Height="40" Canvas.Left="300" Canvas.Top="44"/>
+    </Canvas>
+</Window>

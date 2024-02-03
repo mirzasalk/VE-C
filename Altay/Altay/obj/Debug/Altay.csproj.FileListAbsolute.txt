@@ -1,0 +1,15 @@
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Altay\Altay\bin\Debug\Altay.exe.config
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Altay\Altay\bin\Debug\Altay.exe
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Altay\Altay\bin\Debug\Altay.pdb
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Altay\Altay\obj\Debug\Altay.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Altay\Altay\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Altay\Altay\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Altay\Altay\obj\Debug\Altay_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Altay\Altay\obj\Debug\Altay_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Altay\Altay\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Altay\Altay\obj\Debug\Altay.g.resources
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Altay\Altay\obj\Debug\Altay.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Altay\Altay\obj\Debug\Altay.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Altay\Altay\obj\Debug\Altay.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Altay\Altay\obj\Debug\Altay.exe
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\Altay\Altay\obj\Debug\Altay.pdb
