@@ -1,0 +1,15 @@
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\rain\rain\bin\Debug\rain.exe.config
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\rain\rain\bin\Debug\rain.exe
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\rain\rain\bin\Debug\rain.pdb
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\rain\rain\obj\Debug\rain.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\rain\rain\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\rain\rain\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\rain\rain\obj\Debug\rain_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\rain\rain\obj\Debug\rain_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\rain\rain\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\rain\rain\obj\Debug\rain.g.resources
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\rain\rain\obj\Debug\rain.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\rain\rain\obj\Debug\rain.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\rain\rain\obj\Debug\rain.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\rain\rain\obj\Debug\rain.exe
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\rain\rain\obj\Debug\rain.pdb
